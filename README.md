@@ -1,3 +1,7 @@
+## contentful-ts-type-generator
+
+Note: This is a fork of github.com/arimkevi/contentful-ts-type-generator
+
 ## Usage
 
 1. Get preview api token and spaceId from Contentful. 
@@ -5,7 +9,7 @@
 2. Install this repository into your node project
 
 ```
-npm install github:arimkevi/contentful-ts-type-generator
+npm install @aceandtate/contentful-ts-type-generator
 ```
 
 3. Run the script to get help options
