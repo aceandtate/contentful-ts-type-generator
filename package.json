@@ -1,6 +1,6 @@
 {
   "name": "@aceandtate/contentful-ts-type-generator",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Typescript type declaration file generator from Contentful models",
   "main": "generateContentfulTypes.js",
   "scripts": {
